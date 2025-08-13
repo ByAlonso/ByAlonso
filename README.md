@@ -10,9 +10,11 @@
   
   <!-- Animated Typing Header -->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=F7D744&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Hi+there!+👋+I'm+Alonso;Turning+☕+into+code+since+1998)](https://git.io/typing-svg)
-    
-<img src="https://github.com/ByAlonso/ByAlonso/blob/master/fs_developer.png" alt="Developer Workspace" width="800" height="350" style="border-radius: 15px; margin: 20px 0; object-fit: fill;"/>  
+  
+### Software Engineer
+
 </div>
+
 
 ---
 
