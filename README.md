@@ -22,7 +22,7 @@
 
 ```typescript
 const alonso = {
-    location: "Madrid, Spain 🇪🇸 <==> Copenhaguen, Denmark",
+    location: "Madrid, Spain 🇪🇸 <==> Copenhagen, Denmark",
     currentFocus: "Software Engineering & Software Architecture",
     learning: ["A bit about everything"],
     hobbies: ["Coding Challenges", "Motorcycles 🏍️", "🏋️ Weightlifting"]
