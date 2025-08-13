@@ -110,7 +110,16 @@ const alonso = {
   
 </div>
 
+
 ---
+
+
+## ⏰ Weekly Development Breakdown
+
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ByAlonso&theme=dark&title_color=F7D744&bg_color=0D1117&text_color=C9D1D9&icon_color=F7D744&hide_border=true)](https://wakatime.com/@ByAlonso)
+
+---
+
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/ByAlonso">ByAlonso</a> with ❤️</i>
