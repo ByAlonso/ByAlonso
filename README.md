@@ -1,7 +1,4 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/ByAlonso/count.svg" alt="Visitor's Count" />
-</div>
+![](https://hit.yhype.me/github/profile?account_id=35399615)
 <!--
 **ByAlonso/ByAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
